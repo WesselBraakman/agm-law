@@ -16,7 +16,7 @@ const App = () => (
     {/* MODULE_PROVIDERS_END */}
     <TooltipProvider>
       <Toaster />
-      <BrowserRouter basename="/amg-law">
+      <BrowserRouter basename="/agm-law">
         <Routes>
           <Route path="/" element={<Index />} />
           <Route path="/auth/callback" element={<AuthCallback />} />
