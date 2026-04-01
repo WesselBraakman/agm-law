@@ -24,25 +24,29 @@ export const translations = {
   firm: {
     title: { en: "The Firm", gr: "Η Εταιρεία" },
     description: {
-      en: "Continuing a family tradition started in 1956 by Georgios I. Makris, our firm has evolved into a dynamic legal practice under Andreas G. Makris. Based in Athens with a dedicated branch in Naxos, we provide high-quality personalized legal services. We consistently handle complex cases in the first and second instance courts as well as the Supreme Court of Greece, the Council of State, and the Court of Auditors.",
-      gr: "Συνεχίζοντας μια οικογενειακή παράδοση που ξεκίνησε το 1956 από τον Γεώργιο Ι. Μακρή, η εταιρεία μας εξελίχθηκε σε μια δυναμική νομική πρακτική υπό τον Ανδρέα Γ. Μακρή. Με έδρα την Αθήνα και υποκατάστημα στη Νάξο, παρέχουμε εξατομικευμένες υπηρεσίες υψηλής ποιότητας, χειριζόμενοι σύνθετες υποθέσεις στον Άρειο Πάγο, το Συμβούλιο της Επικρατείας και το Ελεγκτικό Συνέδριο.",
+      en: "The law firm 'A.G. Makris and Associates' is the continuation of a long-standing family tradition started in 1956 by the prominent lawyer Georgios I. Makris (1931-2011). Today, we continue to provide high-quality personalized legal services with responsibility and reliability. Based in Athens and Naxos, our firm handles demanding cases in all instances, including the Supreme Court of Greece and the Council of State.",
+      gr: "Η δικηγορική εταιρεία 'Α.Γ. Μακρής και Συνεργάτες' αποτελεί συνέχεια μιας μακρόχρονης οικογενειακής παράδοσης που ξεκίνησε το 1956 από τον διακεκριμένο δικηγόρο Γεώργιο Ι. Μακρή (1931-2011). Σήμερα, συνεχίζουμε να παρέχουμε υψηλής ποιότητας εξατομικευμένες νομικές υπηρεσίες με υπευθυνότητα και αξιοπιστία. Με έδρα την Αθήνα και τη Νάξο, η εταιρεία μας χειρίζεται απαιτητικές υποθέσεις σε όλους τους βαθμούς δικαιοδοσίας.",
     },
-    teamTitle: { en: "Leadership", gr: "Ηγεσία" },
+    teamTitle: { en: "Our Lawyers", gr: "Οι Δικηγόροι μας" }, // Updated Heading
     members: [
       {
-        name: { en: "Andreas G. Makris", gr: "Ανδρέας Γ. Μακρής" },
-        role: { en: "Managing Partner", gr: "Διαχειριστής Εταίρος" },
+        name: { en: "Andreas Makris", gr: "Ανδρέας Μακρής" },
+        role: { en: "Attorney at Law", gr: "Δικηγόρος" },
+        phone: "+30 6932442384", // Added specific contact info
+        email: "agm@Agmlaw.eu",
         description: {
-          en: "Founder of 'A.G. Makris and Associates' in 1989. For over three decades, he has successfully handled high-stakes litigation in Athens and across the Greek Periphery, representing clients before the country's highest judicial bodies since 1995.",
-          gr: "Ιδρυτής του γραφείου 'Α.Γ. Μακρής και Συνεργάτες' το 1989. Για περισσότερες από τρεις δεκαετίες, χειρίζεται με επιτυχία σημαντικές υποθέσεις στην Αθήνα και την ελληνική περιφέρεια, εκπροσωπώντας πελάτες στα ανώτατα δικαστήρια από το 1995.",
+          en: "Founder of 'A.G. Makris and Associates' in 1989, Andreas has over three decades of experience handling high-profile cases in the Supreme Court and administrative bodies. He specializes in complex litigation and strategic legal advisory.",
+          gr: "Ιδρυτής του γραφείου 'Α.Γ. Μακρής και Συνεργάτες' το 1989, ο Ανδρέας διαθέτει πάνω από τρεις δεκαετίες εμπειρίας στον χειρισμό υποθέσεων υψηλού προφίλ στον Άρειο Πάγο και διοικητικούς φορείς.",
         },
       },
       {
-        name: { en: "Georgios I. Makris (1931-2011)", gr: "Γεώργιος Ι. Μακρής (1931-2011)" },
-        role: { en: "Founding Legacy", gr: "Ιδρυτική Παρακαταθήκη" },
+        name: { en: "George Makris", gr: "Γιώργος Μακρής" },
+        role: { en: "Attorney at Law", gr: "Δικηγόρος" },
+        phone: "+30 6976828253", // Added specific contact info
+        email: "gm@Agmlaw.eu",
         description: {
-          en: "The distinguished lawyer who established the family tradition in Thessaloniki in 1956. His commitment to reliability and legal excellence remains the cornerstone of our firm's current professional philosophy.",
-          gr: "Ο διακεκριμένος δικηγόρος που ξεκίνησε την οικογενειακή παράδοση στη Θεσσαλονίκη το 1956. Η δέσμευσή του στην αξιοπιστία και τη νομική αριστεία παραμένει ο ακρογωνιαίος λίθος της επαγγελματικής μας φιλοσοφίας.",
+          en: "Partner at AGM Law, specializing in providing dynamic legal solutions across civil and commercial matters. He manages the firm's diverse clientele with a focus on effective resolution and personalized support.",
+          gr: "Εταίρος στην AGM Law, με εξειδίκευση στην παροχή δυναμικών νομικών λύσεων σε αστικές και εμπορικές υποθέσεις. Διαχειρίζεται το ποικίλο πελατολόγιο της εταιρείας με έμφαση στην αποτελεσματική επίλυση.",
         },
       },
     ],
